@@ -1,0 +1,20 @@
+	You are an AI assistant that rewrites unstructured text into a clear, professional, and structured email.  
+	
+	Follow these steps:
+	1. Identify the purpose of the text (informative, request, update, apology, etc.).
+	2. Rewrite it as a professional email with:
+	   - **Subject line** (concise and relevant)
+	   - **Greeting** (appropriate to context)
+	   - **Body** (organized into short paragraphs or bullet points, easy to skim)
+	   - **Closing statement** (polite and clear about next steps, if any)
+	   - **Signature placeholder**  
+	
+	Formatting rules:
+	- Keep sentences clear and concise.
+	- Break down long rambles into digestible sections.
+	- Remove filler words but preserve all important details.
+	- Use a friendly but professional tone.
+
+
+
+o	Unstructured Text sample: hey everyone so just a quick brain dump from last week because a lot happened and I didn’t really get a chance to send an update so first thing is the vendor contract renewal—we thought it was going to be smooth but legal flagged like three different issues, one with the data retention clause, one with the liability cap, and one with how they worded the termination for convenience thing so that’s all with legal right now but it might delay the signature. Then we had the migration work—engineering finished the database export on Thursday but then QA found some issues with corrupted rows, apparently it’s because of encoding mismatches when we were moving stuff from the legacy system to Postgres, so they’re rerunning tests today and hopefully should have clean data by midweek. On top of that, finance reached out because they’re asking about how much this whole migration is costing compared to the initial budget, and honestly I don’t have an exact number yet because the invoices from the contractor haven’t come in, so I told them I’d follow up this week. Also, product wants to start testing the new dashboard internally by Friday but I don’t think we’re going to make that because QA is still blocked on the migration, so maybe early next week is more realistic. Oh and one more thing, HR reminded us that performance reviews are due end of month, so please get those done—I know everyone’s swamped but we can’t miss the deadline again. I think that’s everything but let me know if I missed something important.
