@@ -1,0 +1,30 @@
+=====================================================
+              BRIGHTPATH OFFICE SUPPLIES LTD
+         45 Market Street, Manchester M1 1AA, UK
+=====================================================
+
+INVOICE
+
+Invoice No:     BP-2025-0917
+Invoice Date:   14 May 2025
+Payment Terms:  Net 30
+PO Number:      PO-77421
+
+Bill To:
+Northwind Consulting
+12 King's Road, Leeds LS1 4AB
+
+-----------------------------------------------------
+Description                 Qty   Unit Price    Total
+-----------------------------------------------------
+A4 Copy Paper (box of 5)     10     £24.00     £240.00
+Ergonomic Office Chair        4    £185.00     £740.00
+Whiteboard Markers (12pk)     6      £9.50      £57.00
+-----------------------------------------------------
+                              Subtotal:     £1,037.00
+                              VAT (20%):      £207.40
+                              TOTAL DUE:    £1,244.40
+-----------------------------------------------------
+
+Bank: Barclays | Sort Code: 20-45-77 | Acc: 43819920
+Thank you for your business!

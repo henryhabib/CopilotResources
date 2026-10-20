@@ -1,0 +1,21 @@
+Project: Customer Portal v2
+Week ending: Friday June 13
+PM: Olivia Grant
+
+--- Teams channel messages copied this week ---
+
+Ben (dev lead): login + SSO is done and merged 🎉 tested with Azure AD, all good
+
+Ben: payment integration with Stripe is ~70% done. still waiting on finance to give us the production API keys, asked twice now. can't finish testing without them
+
+Mia (design): finished the dashboard mockups, client approved them on Wed
+
+Carlos (QA): found 14 bugs in the account settings page, 3 are critical (users can see other users' addresses in one edge case!!). fixing now, Ben says by tues
+
+Olivia: budget check – we're at $182k of $200k spent, and we've got about 5 weeks of work left. burn rate is ~$9k/wk so we're gonna be over
+
+Mia: next week starting on mobile responsive layouts
+
+Ben: if we don't get the stripe keys by June 20 the July 1 launch date is at risk
+
+Olivia: UAT with client planned for June 24-27

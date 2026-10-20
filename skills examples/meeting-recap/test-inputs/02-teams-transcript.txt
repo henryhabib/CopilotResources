@@ -1,0 +1,22 @@
+Microsoft Teams Meeting Transcript
+Meeting: Website Redesign Kickoff
+Date: Monday, May 5
+
+[00:00:04] Rachel Kim: Okay, I think everyone's here. Thanks for joining. So the goal today is to agree on scope and timeline for the website redesign.
+[00:00:15] David Osei: Sounds good. From the design side, we've got three concepts ready. I'd like us to pick one today if we can.
+[00:00:24] Rachel Kim: Let's do that. Did everyone get a chance to look at them?
+[00:00:28] Priya Nair: I did. I really like concept B. It's the cleanest and it works best on mobile.
+[00:00:35] Alex Turner: Agreed, B is my favourite too. A felt a bit busy.
+[00:00:41] Rachel Kim: Okay, any objections to going with B? ... No? Great, concept B it is.
+[00:00:50] David Osei: Perfect. I'll turn B into full page mockups. I can have the homepage and product page done by May 16.
+[00:01:02] Rachel Kim: Great. Now timeline. Leadership wants the new site live before the September conference.
+[00:01:10] Alex Turner: That's tight but doable if dev starts by early June. I'd say target go-live August 25, which gives us a buffer.
+[00:01:20] Rachel Kim: Let's lock August 25 as the go-live date.
+[00:01:24] Priya Nair: What about content? Who's rewriting the copy for the product pages?
+[00:01:29] Rachel Kim: Hmm, good question. Marketing usually does it, but they're stretched. Let's figure that out later.
+[00:01:36] Alex Turner: Also, do we need to keep the old blog URLs? Changing them could hurt SEO.
+[00:01:42] David Osei: I don't know. We should ask the SEO agency.
+[00:01:46] Priya Nair: I can reach out to them this week.
+[00:01:50] Rachel Kim: Thanks Priya. Alex, can you put together a dev estimate?
+[00:01:55] Alex Turner: Yep, I'll have it by end of next week.
+[00:02:00] Rachel Kim: Great. I think that's it. Thanks everyone!

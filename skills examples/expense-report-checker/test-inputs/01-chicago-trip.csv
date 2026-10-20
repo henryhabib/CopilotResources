@@ -1,0 +1,11 @@
+Employee,Date,Category,Vendor,Amount,Receipt,Description
+Mark Ellison,2025-04-14,Flight,United Airlines,1240.00,Yes,Business class NYC to Chicago (2h 30m)
+Mark Ellison,2025-04-14,Ground transport,Uber,48.20,Yes,Airport to hotel
+Mark Ellison,2025-04-14,Hotel,Hilton Chicago,289.00,Yes,Night 1
+Mark Ellison,2025-04-15,Hotel,Hilton Chicago,289.00,Yes,Night 2
+Mark Ellison,2025-04-15,Hotel,Hilton Chicago,18.50,Yes,Minibar
+Mark Ellison,2025-04-15,Meals,Gibsons Steakhouse,412.00,Yes,Client dinner
+Mark Ellison,2025-04-15,Meals,Starbucks,14.75,No,Breakfast
+Mark Ellison,2025-04-16,Meals,Potbelly,32.40,No,Lunch
+Mark Ellison,2025-04-16,Software,Zoom,15.99,Yes,Zoom Pro monthly
+Mark Ellison,2025-04-16,Ground transport,Blacklane,165.00,Yes,Luxury car to airport

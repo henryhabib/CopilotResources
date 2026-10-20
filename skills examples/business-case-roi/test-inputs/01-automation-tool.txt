@@ -1,0 +1,8 @@
+Hey, I want to make the case for buying an AP automation tool (InvoiceFlow) for the finance team.
+
+- Setup + implementation from the vendor: $45,000 one time
+- Licences: $18,000 per year
+- Right now our 6 AP clerks spend about 8 hours a week each manually keying invoices. InvoiceFlow says it cuts that by 75%.
+- We also pay about $12,000 a year in late payment fees because invoices get stuck. Vendor says that basically goes away.
+
+Is this worth it? Can you build me a business case I can send to my director?

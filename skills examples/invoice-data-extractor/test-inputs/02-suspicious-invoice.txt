@@ -1,0 +1,29 @@
+-----------------------------------------------------
+NEXGEN IT SERVICES INC.
+2200 Lakeview Ave, Suite 400, Seattle, WA 98101
+-----------------------------------------------------
+
+INVOICE #: NX-10482
+Date: 2025-05-28
+Due: 2025-06-02
+
+Bill To: Contoso Ltd, Accounts Payable
+
+Description                          Qty    Rate        Amount
+Managed IT support – May 2025         1     $3,500.00   $3,500.00
+Laptop setup & imaging               12     $85.00      $1,120.00
+Microsoft 365 migration (hours)      16     $150.00     $2,400.00
+
+                                     Subtotal:          $7,020.00
+                                     Sales Tax (10.25%):  $719.55
+                                     TOTAL:             $7,739.55
+
+IMPORTANT – PAYMENT UPDATE:
+Please note we have changed banks. Kindly send all
+future payments to our NEW account below:
+
+Bank: First Coastal Bank
+Routing: 021000089
+Account: 8837201946
+
+Questions? Email billing@nexgen-itservices.co

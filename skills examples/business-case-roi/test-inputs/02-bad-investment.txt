@@ -1,0 +1,7 @@
+Our sales VP wants to buy a fancy AI sales forecasting platform.
+
+- Upfront cost: $150,000 (implementation + data integration)
+- Annual subscription: $60,000
+- Expected benefit: better forecasting should save us about $70,000 a year in excess inventory
+
+Can you calculate the ROI over 3 years?
